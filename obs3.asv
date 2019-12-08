@@ -1,0 +1,12 @@
+clc;
+clear all;
+close all;
+
+th1 = [0.09 0.5 0.01];
+th2 = [-0.09 -0.5 -0.01];
+
+a = audioread('input.wav');
+
+for i=1:256*256
+    count = 
+    
